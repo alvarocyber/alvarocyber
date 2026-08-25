@@ -2,7 +2,7 @@
 
 > Recruiter-friendly proof and contact path.
 
-<h2>Header</h2>
+## Header
 
 Hi, I'm **alvarocyber**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
@@ -12,7 +12,7 @@ Hi, I'm **alvarocyber**. This README shares what I'm building, the tools I use, 
     <img src="https://www.gitskins.com/api/section/hero?username=alvarocyber&theme=github-dark" alt="alvarocyber hero section" />
   </picture>
 </p>
-<h2>About me</h2>
+## About Me
 
 <p align="center">
   <picture>
@@ -20,7 +20,7 @@ Hi, I'm **alvarocyber**. This README shares what I'm building, the tools I use, 
     <img src="https://www.gitskins.com/api/section/about?username=alvarocyber&theme=github-dark" alt="alvarocyber about section" />
   </picture>
 </p>
-<h2>Skills</h2>
+## Skills
 
 <p align="center">
   <picture>
@@ -28,7 +28,7 @@ Hi, I'm **alvarocyber**. This README shares what I'm building, the tools I use, 
     <img src="https://www.gitskins.com/api/section/stack?username=alvarocyber&theme=github-dark" alt="alvarocyber stack section" />
   </picture>
 </p>
-<h2>Github Stats</h2>
+## GitHub Stats
 
 <p align="center">
   <picture>
@@ -36,7 +36,7 @@ Hi, I'm **alvarocyber**. This README shares what I'm building, the tools I use, 
     <img src="https://www.gitskins.com/api/section/stats?username=alvarocyber&theme=github-dark" alt="alvarocyber stats section" />
   </picture>
 </p>
-<h2>Projects</h2>
+## Projects
 
 <p align="center">
   <picture>
@@ -44,7 +44,7 @@ Hi, I'm **alvarocyber**. This README shares what I'm building, the tools I use, 
     <img src="https://www.gitskins.com/api/section/projects?username=alvarocyber&theme=github-dark" alt="alvarocyber projects section" />
   </picture>
 </p>
-<h2>Connect</h2>
+## Connect
 
 <p align="center">
   <picture>
